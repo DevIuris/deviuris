@@ -9,7 +9,7 @@
 </div>
 
   
-![Snake animation] (https://github.com/DevIuris/DevIuris/blob/output/github-contribution-grid-snake.svg
+![Snake animation](https://github.com/DevIuris/DevIuris/blob/output/github-contribution-grid-snake.svg)
   
 <!--
 **DevIuris/deviuris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
